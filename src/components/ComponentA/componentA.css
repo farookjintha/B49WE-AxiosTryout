@@ -1,0 +1,17 @@
+.users-container {
+  margin: 1em;
+  padding: 1em;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.user {
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid #a52a2a;
+  border-radius: 10px;
+}
+
+button {
+  margin: 0 1em;
+}
